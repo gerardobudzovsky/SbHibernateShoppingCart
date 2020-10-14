@@ -23,7 +23,9 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`mydatabase` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
+USE `mydatabase`;
 --
 -- Estructura de tabla para la tabla `accounts`
 --
